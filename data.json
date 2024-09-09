@@ -1,0 +1,70 @@
+{
+    "articles": [
+        {
+            "id": "techcrunch-1",
+            "name": "TechCrunch",
+            "author": "Alex Wilhelm",
+            "title": "TechCrunch Disrupt 2024: The Big Highlights",
+            "description": "Highlights from the TechCrunch Disrupt 2024 conference.",
+            "url": "https://techcrunch.com/2024/09/08/techcrunch-disrupt-2024-highlights/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/disrupt-2024-highlights.jpg",
+            "publishedAt": "2024-09-08T14:00:00Z",
+            "content": "TechCrunch Disrupt 2024 featured a range of innovative startups and keynote speakers."
+        },
+        {
+            "id": "techcrunch-2",
+            "name": "TechCrunch",
+            "author": "Natasha Lomas",
+            "title": "The Rise of AI-Powered Startups",
+            "description": "Exploring how AI startups are shaping the future.",
+            "url": "https://techcrunch.com/2024/09/07/ai-powered-startups/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/ai-startups.jpg",
+            "publishedAt": "2024-09-07T10:30:00Z",
+            "content": "AI-powered startups are making waves in various industries, from healthcare to finance."
+        },
+        {
+            "id": "techcrunch-3",
+            "name": "TechCrunch",
+            "author": "Romain Dillet",
+            "title": "New Tech Innovations Unveiled at CES 2024",
+            "description": "Key innovations showcased at CES 2024.",
+            "url": "https://techcrunch.com/2024/09/06/ces-2024-tech-innovations/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/ces-2024-innovations.jpg",
+            "publishedAt": "2024-09-06T09:45:00Z",
+            "content": "CES 2024 brought forth groundbreaking technologies and gadgets from leading companies."
+        },
+        {
+            "id": "techcrunch-4",
+            "name": "TechCrunch",
+            "author": "Zack Whittaker",
+            "title": "Cybersecurity Threats: What You Need to Know",
+            "description": "An overview of current cybersecurity threats.",
+            "url": "https://techcrunch.com/2024/09/05/cybersecurity-threats/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/cybersecurity-threats.jpg",
+            "publishedAt": "2024-09-05T08:00:00Z",
+            "content": "Stay informed about the latest cybersecurity threats and how to protect yourself."
+        },
+        {
+            "id": "techcrunch-5",
+            "name": "TechCrunch",
+            "author": "Brian Heater",
+            "title": "The Future of Electric Vehicles",
+            "description": "Insights into the electric vehicle industry and future trends.",
+            "url": "https://techcrunch.com/2024/09/04/electric-vehicles-future/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/electric-vehicles.jpg",
+            "publishedAt": "2024-09-04T16:15:00Z",
+            "content": "Electric vehicles are becoming more prevalent, with advancements in battery technology and infrastructure."
+        },
+        {
+            "id": "techcrunch-6",
+            "name": "TechCrunch",
+            "author": "Sarah Perez",
+            "title": "The Growth of Remote Work Technologies",
+            "description": "How remote work technologies are evolving and their impact.",
+            "url": "https://techcrunch.com/2024/09/03/remote-work-technologies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/remote-work.jpg",
+            "publishedAt": "2024-09-03T12:00:00Z",
+            "content": "Remote work has seen a significant rise, leading to advancements in collaboration tools and technologies."
+        }
+    ]
+}
